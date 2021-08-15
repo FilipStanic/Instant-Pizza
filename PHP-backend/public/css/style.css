@@ -1,0 +1,27 @@
+body {
+    background-color: #e0e0e0;
+}
+
+.viewArea {
+    min-height: 80vh;
+}
+
+.cardContainer {
+    width: 23rem;
+}
+
+.itemImg {
+    height:300px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.itemImg img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.iSize {
+    font-size: 40px;
+}
