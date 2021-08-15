@@ -12,7 +12,7 @@ This project is a combination of coursework performed in both the WBD5100 and th
 ---
 ### 1. Backend and admin view setup (WBD5100)
 1. run ***git clone git@github.com:FilipStanic/Instant-Pizza.git***
-2. run ***cd final-project***
+2. run ***cd Instant-Pizza***
 2. Import the ***instantpizza.sql*** file found in the root of this project.
 2. Open the PHP-backend folder in a terminal and run:
 -- ***php -S localhost:8087***
